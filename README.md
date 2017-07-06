@@ -38,9 +38,6 @@ in groupme.py, set your botid and group_id variables
 in praw.ini, set your client_id, client_secret, reddit username and pwd, user_agent variables
 in reddit.py, set users you want to follow, ~line 35
 
-```
-pip install -r requirements.txt
-```
 
 ## Usage
 ```
